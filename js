@@ -44,7 +44,7 @@ function gestionarXml(dadesXml){
  //Recuperamos el título y las opciones, guardamos la respuesta correcta
  var tituloSelect=xmlDoc.getElementsByTagName("title")[1].childNodes[0].nodeValue;
  var opcionesSelect = [];
- var nopt = xmlDoc.getElementById("").getElementsByTagName('option').length;
+ var nopt = xmlDoc.getElementById("jbo001").getElementsByTagName('option').length;
   for (i = 0; i < nopt; i++) { 
     opcionesSelect[i] = xmlDoc.getElementById("jbo001").getElementsByTagName('option')[i].childNodes[0].nodeValue;
  }
