@@ -24,7 +24,7 @@ window.onload = function(){
    gestionarXml(this);
   }
  };
- xhttp.open("GET", "preguntasValidadas.xml", true);
+ xhttp.open("GET", "https://rawgit.com/JorGS93/Formulario/master/preguntasValidadas.xml", true);
  xhttp.send();
 }
 
