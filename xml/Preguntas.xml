@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE  questions SYSTEM "Preguntas.dtd">
+<!DOCTYPE Preguntas SYSTEM "Preguntas.dtd">
 <questions>
 <question id='jbo001'>
 <type>checkbox</type>
