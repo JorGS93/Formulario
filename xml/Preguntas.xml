@@ -68,27 +68,27 @@
 
 <question id='jbo008'> 
 <type>radio</type>
-<title>11.- Mira atentamente la siguiente secuencia de números:
-8809 = 6
-7111 = 0
-2172 = 0
-6666 = 4
-1111 = 0
-3213 = 0
-7662 = 2
-9312 = 1
-0000 = 4
-2222 = 0
-3333 = 0
-5555 = 0
-8193 = 3
-8096 = 5
-7777 = 0
-9999 = 4
-7756 = 1
-6855 = 3
-9881 = 5
-5531 = 0
+<title>Mira atentamente la siguiente secuencia de números:
+8809 = 6,
+7111 = 0,
+2172 = 0,
+6666 = 4,
+1111 = 0,
+3213 = 0,
+7662 = 2,
+9312 = 1,
+0000 = 4,
+2222 = 0,
+3333 = 0,
+5555 = 0,
+8193 = 3,
+8096 = 5,
+7777 = 0,
+9999 = 4,
+7756 = 1,
+6855 = 3,
+9881 = 5,
+5531 = 0,
 2581 =¿?
 ¿Cuál es el número que sigue a 2581?</title>
 <option>4</option>
