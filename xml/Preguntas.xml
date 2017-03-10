@@ -16,7 +16,7 @@
 <question id='jbo002'>
 <type>checkbox</type>
 <title>Si me nombras desaparezco, ¿Quién soy? </title>
-<option>El Silencio sdsdsdsds</option>
+<option>El Silencio</option>
 <option>El Viento</option>
 <option>La oscuridad</option>
 <option>El eco</option>
@@ -26,7 +26,7 @@
 
 <question id='jbo003'>
 <type>text</type>
-<title> ¿Así que crees que eres bueno en matemáticas? Completa la secuencia: 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, 6 = 3, 7 = 5, 8 = 5, 9 = 4, 10 = 3, 11 =, 12 = ? </title>
+<title> ¿Así que crees que eres bueno en matemáticas? Completa la secuencia: 1 = 3, 2 = 3, 3 = 5, 4 = 4, 5 = 4, 6 = 3, 7 = 5, 8 = 5, 9 = 4, 10 = 3, 11 = 6, 12 = ? </title>
 <answer>4</answer>
 </question>
 
