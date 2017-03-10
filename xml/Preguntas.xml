@@ -3,14 +3,14 @@
 <questions>
 <question id='jbo001'>
 <type>checkbox</type>
-<title>Si un tren eléctrico va de Norte a Sur,
-¿hacia qué lado echará el humo?</title>
-<option>Hacia la izquierda</option>
-<option>Es eléctrico, no hay humo</option>
-<option>Hacia arriba</option>
-<option>Hacia la derecha</option>
+<title>Si soy joven, joven quedo.Si soy viejo, viejo quedo.Tengo boca y no te hablo, tengo ojos y no te veo. 
+¿Quién soy?</title>
+<option>Una fotografía</option>
+<option>Un retrato</option>
+<option>Una pasa</option>
+<option>Ninguna de las anteriores es correcta</option>
+<answer>0</answer>
 <answer>1</answer>
-<answer>2</answer>
 </question>
 
 <question id='jbo002'>
